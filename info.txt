@@ -1,0 +1,13 @@
+This Car Rental project is based on HTML, CSS, JS
+    - this project is heavily based on HTML & CSS work & light JS
+
+Course link:
+https://www.youtube.com/watch?v=3ca77ehT5yc
+
+Icon used:
+https://remixicon.com/
+
+Fonts:
+Google Fonts
+
+
